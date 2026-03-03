@@ -1,4 +1,5 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin/Release/net6.0/publish"
+    "appService.deploySubpath": "bin\\Release\\net10.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e224afd8-7a32-4195-9b37-40171691fd97/resourceGroups/desafio/providers/Microsoft.Web/sites/desafioazuredio"
 }
